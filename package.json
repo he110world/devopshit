@@ -17,5 +17,5 @@
     "redis": "^3.0.2",
     "request": "^2.88.2"
   },
-  "repository":""https://github.com/he110world/devopshit.git"
+  "repository":"https://github.com/he110world/devopshit.git"
 }
