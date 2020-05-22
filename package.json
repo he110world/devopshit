@@ -1,5 +1,5 @@
 {
-  "name": "redshit",
+  "name": "devopshit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@koa/router": "^8.0.8",
     "koa": "^2.12.0",
@@ -16,5 +16,6 @@
     "ping": "^0.2.3",
     "redis": "^3.0.2",
     "request": "^2.88.2"
-  }
+  },
+  "repository":""https://github.com/he110world/devopshit.git"
 }
